@@ -1,0 +1,35 @@
+{
+  "navigation": {
+    "home": "Home",
+    "projects": "Projects",
+    "team": "Team",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Shanghai Omni Intelligence Technology Co., Ltd",
+    "subtitle": "Leading AI Innovation, Building Smart Future",
+    "description": "We focus on cutting-edge AI technology research and development, committed to providing the most advanced AI solutions for our clients.",
+    "cta": "Learn More"
+  },
+  "projects": {
+    "title": "AI Projects",
+    "vision": {
+      "title": "Computer Vision",
+      "description": "Deep Learning-based Image Recognition and Processing System"
+    },
+    "nlp": {
+      "title": "Natural Language Processing",
+      "description": "Intelligent Dialogue and Text Analysis Solutions"
+    }
+  },
+  "team": {
+    "title": "Professional Team",
+    "description": "Elite team composed of industry experts"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email"
+  }
+} 

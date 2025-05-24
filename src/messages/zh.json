@@ -1,0 +1,35 @@
+{
+  "navigation": {
+    "home": "首页",
+    "projects": "项目展示",
+    "team": "团队介绍",
+    "contact": "联系我们"
+  },
+  "home": {
+    "title": "上海欧米智研科技有限公司",
+    "subtitle": "引领AI技术创新，打造智能未来",
+    "description": "我们专注于人工智能领域的前沿技术研发，致力于为客户提供最先进的AI解决方案。",
+    "cta": "了解更多"
+  },
+  "projects": {
+    "title": "AI项目展示",
+    "vision": {
+      "title": "计算机视觉",
+      "description": "基于深度学习的图像识别与处理系统"
+    },
+    "nlp": {
+      "title": "自然语言处理",
+      "description": "智能对话与文本分析解决方案"
+    }
+  },
+  "team": {
+    "title": "专业团队",
+    "description": "由行业专家组成的精英团队"
+  },
+  "contact": {
+    "title": "联系我们",
+    "address": "地址",
+    "phone": "电话",
+    "email": "邮箱"
+  }
+} 
