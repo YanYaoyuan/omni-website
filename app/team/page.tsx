@@ -3,19 +3,19 @@ import Image from "next/image";
 export default function Team() {
   const team = [
     {
-      name: "揭皓翔",
+      name: "",
       role: "CEO",
       description: "拥有10年 AI 研究经验，专注于大语言模型和自然语言处理领域。",
       expertise: ["机器学习", "深度学习", "NLP", "大语言模型"]
     },
     {
-      name: "刘力峰",
+      name: "",
       role: "CTO",
       description: "专注于 AI 系统架构设计，确保系统的高性能和可扩展性。",
       expertise: ["系统架构", "分布式系统", "云原生", "AI 部署"]
     },
     {
-      name: "燕瑶院",
+      name: "",
       role: "产品经理",
       description: "负责 AI 产品的规划和设计，确保产品满足用户需求。",
       expertise: ["产品规划", "用户体验", "市场分析", "项目管理"]
@@ -32,7 +32,7 @@ export default function Team() {
     <div className="min-h-screen bg-gray-900 text-gray-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <h1 className="text-4xl font-bold text-center mb-12">我们的团队</h1>
-        
+
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {team.map((member, index) => (
             <div key={index} className="bg-gray-800 rounded-lg shadow-lg overflow-hidden">
@@ -54,4 +54,4 @@ export default function Team() {
       </div>
     </div>
   );
-} 
+}
